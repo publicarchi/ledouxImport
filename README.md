@@ -9,3 +9,6 @@ Ce dossier contient un profile personnalisé pour les TEI Stylesheets :
 
 ## listObject.xsl
 Seconde feuille de transformation. Elle crée les `<listObject/>`. 
+
+## catalogue.docx
+Les entrées du catalogues dans le document .docx doivent être stylées avec des niveaux de titres.
